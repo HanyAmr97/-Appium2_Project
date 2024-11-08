@@ -26,7 +26,7 @@ Fluent Design: Encourages smooth and readable code flow, especially useful in te
 Data-Driven Framework: Allows tests to run with various inputs, enhancing coverage and flexibility.
 
 
- ### 🗃️ Documentation
+ ### 🗃️ Documentation:
 * **[Appium Docs](http://appium.io/docs/en/2.0/quickstart/)**.
 
 
