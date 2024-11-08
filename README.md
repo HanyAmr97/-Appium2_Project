@@ -8,32 +8,43 @@
 <img width="201" alt="Screenshot 2024-10-04 211552" src="https://github.com/user-attachments/assets/14c14fe7-3427-4ff3-b4d4-ba5577c9e842">
 
 
-### 📝 The main Frameworks included in the project::
+### 📝 The main Frameworks included in the project:
+
 Appium 2.0: For automating mobile application testing.
+
 TestNG: As the testing framework to structure and run tests.
-Allure Report and Extent Report: To generate and visualize test reports for better tracking and analysis.
+
+Allure Report: To generate and visualize test reports for better tracking and analysis.
 
 
 ### 🏗️ Project Structure:
+
 Page Object Model (POM): Ensures test code is organized by separating page elements and actions from test cases.
+
 Fluent Design: Encourages smooth and readable code flow, especially useful in tests involving multiple steps.
+
 Data-Driven Framework: Allows tests to run with various inputs, enhancing coverage and flexibility.
+
 
  ### 🗃️ Documentation
 * **[Appium Docs](http://appium.io/docs/en/2.0/quickstart/)**.
 
- ### 🚧 Requirements
+
+ ### 🚧 Requirements:
 Java JDK-17: Ensures compatibility with Appium 2.0.
 Appium 2.0, Maven, and Android Studio Emulator: Required to set up and run tests in the Android environment.
 
- ### 🚀 Test Execution Steps
-Start the Appium server.
-Launch the Android emulator.
-Execute tests by running the testng.xml file.
-Generate reports using Allure.
+ ### 🚀 Test Execution Steps:
+ 
+1-Start the Appium server.
+2-Launch the Android emulator.
+3-Execute tests by running the testng.xml file.
+4-Generate reports using Allure.
+
 
 -  ### 📄 Allure Report: 
 ![Capture33](https://github.com/user-attachments/assets/acf7c4fe-bc3d-4ef4-88c2-9a689554f6ed)
+
 
 - ### 🔍️ Covered Test case in this project :
 ### Test Scenario: Purchase a Product in Sauce Labs Mobile Application.
