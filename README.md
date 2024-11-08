@@ -39,13 +39,22 @@ Generate reports using Allure.
 ### Test Scenario: Purchase a Product in Sauce Labs Mobile Application.
 #### ✅Steps:
 
-Launch the Sauce Labs mobile application.
-Navigate to "Menu" and select "Login."
-Log in using valid credentials.
-Choose a product to purchase.
-Add the selected product to the cart by clicking "Counter Plus" and then "Add to Cart."
-Access the shopping cart through the "Cart Badge" icon.
-Proceed to checkout, filling out the required checkout and payment information.
-Complete the purchase by clicking "Place Order."
-Confirm return to the home screen by clicking "Continue Shopping."
+1-Launch the Sauce Labs mobile application.
+
+2-Navigate to "Menu" and select "Login".
+
+3-Log in using valid credentials.
+
+4-Choose a product to purchase.
+
+5-Add the selected product to the cart by clicking "Counter Plus" and then "Add to Cart".
+
+6-Access the shopping cart through the "Cart Badge" icon.
+
+7-Proceed to checkout, filling out the required checkout and payment information.
+
+8-Complete the purchase by clicking "Place Order".
+
+9-Confirm return to the home screen by clicking "Continue Shopping".
+
 This approach ensures comprehensive coverage for a key user flow, from login to purchase completion, with checkpoints to validate each critical step.
